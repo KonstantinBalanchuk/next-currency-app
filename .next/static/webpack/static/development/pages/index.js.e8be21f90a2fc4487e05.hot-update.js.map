@@ -1,0 +1,1 @@
+{"version":3,"file":"static/webpack/static\\development\\pages\\index.js.e8be21f90a2fc4487e05.hot-update.js","sources":["webpack:///./components/Prices.js"],"sourcesContent":["class Prices extends React.Component {\r\n    state = {\r\n        ca\r\n    };\r\n}"],"mappings":";;;;;;;;;;;;;;;;;;;;;AAAA;;;;;;;;;;;;;;;;;;;;AACA;AACA;AADA;AACA;;;;;AAFA;;;;A","sourceRoot":""}
